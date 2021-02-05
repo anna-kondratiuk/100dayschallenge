@@ -1,4 +1,6 @@
 import arcade
+import os
+os.environ['DISPLAY'] = ':1'
 from arcade.color import YELLOW_ORANGE
 
 #set constants for the screen size
