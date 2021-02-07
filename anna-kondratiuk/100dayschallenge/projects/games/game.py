@@ -1,6 +1,6 @@
 import arcade
-import os
-os.environ['DISPLAY'] = ':1'
+import pyglet
+
 from arcade.color import YELLOW_ORANGE
 
 #set constants for the screen size
