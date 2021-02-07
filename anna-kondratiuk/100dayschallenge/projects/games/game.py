@@ -1,4 +1,6 @@
 import arcade
+import pyglet
+
 from arcade.color import YELLOW_ORANGE
 
 #set constants for the screen size
